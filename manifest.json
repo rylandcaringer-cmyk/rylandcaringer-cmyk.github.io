@@ -1,0 +1,14 @@
+{
+  "name": "ATELIER — Digital Closet",
+  "short_name": "ATELIER",
+  "description": "Your private digital wardrobe and outfit planner.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#171715",
+  "theme_color": "#171715",
+  "orientation": "portrait",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
